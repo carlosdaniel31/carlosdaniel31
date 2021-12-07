@@ -6,8 +6,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <div display="flex" align-items="center">
   <a href="https://github.com/carlosdaniel31">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosdaniel31&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdaniel31&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=carlosdaniel31&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180rem" width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdaniel31&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <h2> 🛠 &nbsp;Tecnologias</h2>
 <div style="display: inline_block"><br>
