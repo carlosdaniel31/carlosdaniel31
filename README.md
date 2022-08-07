@@ -2,8 +2,8 @@
 
 ### Olá, eu sou o Carlos Daniel 👋
 
-- 🌱 Estudando JavaScript
-- 💬 Conhecimento em **JavaScript, HTML, CSS, GIT**
+- 🌱 Estudando React e Node.js
+- 💬 Conhecimento em **JavaScript, HTML, CSS, React, Node.js, Postgres e GIT**
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div display="flex" align-items="center">
