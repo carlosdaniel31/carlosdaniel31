@@ -17,7 +17,6 @@
   <img align="center" alt="Daniel-React" height="30" width="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Daniel-Node" height="30" width="40" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Daniel-Postgre" height="30" width="40" title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Daniel-Tailwind" height="30" width="40" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg">
   <img align="center" alt="Daniel-HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Daniel-Git" height="30" width="40" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
