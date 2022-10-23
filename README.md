@@ -2,7 +2,7 @@
 
 ### Olá, eu sou o Carlos Daniel 👋
 
-- 🌱 Estudando React e Node.js
+- 🌱 Estudando React, TypeScript e Tailwindcss
 - 💬 Conhecimento em **JavaScript, HTML, CSS, React, Node.js, PostgreSQL e GIT**
 
 ## ⚙️ &nbsp;GitHub Analytics
