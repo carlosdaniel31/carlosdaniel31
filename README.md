@@ -2,14 +2,14 @@
 
 ### Olá, eu sou o Carlos Daniel 👋
 
-- 🌱 Estudando React Native
+- 📚 Estudando React Native
 - 💬 Conhecimento em **JavaScript, HTML, CSS, React, React Native, TypeScript, Node.js, PostgreSQL e GIT**
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div display="flex" align-items="center">
   <a href="https://github.com/carlosdaniel31">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlosdaniel31&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdaniel31&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=carlosdaniel31&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />
+  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=carlosdaniel31&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
   <h2> 🛠 &nbsp;Tecnologias</h2>
 <div style="display: inline_block"><br>
@@ -23,7 +23,7 @@
 </div>
   <br></br>
   
-  <h2> 👨🏽‍🦲 &nbsp;Social Links</h2>
+  <h2> 🌐 &nbsp;Social Links</h2>
   <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/carlos-daniel-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
