@@ -2,8 +2,8 @@
 
 ### Olá, eu sou o Carlos Daniel 👋
 
-- 🌱 Estudando React, TypeScript e Tailwindcss
-- 💬 Conhecimento em **JavaScript, HTML, CSS, React, Node.js, PostgreSQL e GIT**
+- 🌱 Estudando React Native
+- 💬 Conhecimento em **JavaScript, HTML, CSS, React, React Native, TypeScript, Node.js, PostgreSQL e GIT**
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div display="flex" align-items="center">
@@ -25,5 +25,5 @@
   
   <h2> 👨🏽‍🦲 &nbsp;Social Links</h2>
   <div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/carlosdaniel31/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/carlos-daniel-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
