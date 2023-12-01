@@ -28,3 +28,5 @@ Hoje estou fazendo o bootcamp de especialização Ignite da Rocketseat, ao qual 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=45b8ed&height=120&section=footer"/>
